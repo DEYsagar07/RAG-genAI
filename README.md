@@ -1,6 +1,7 @@
 # 🧠 RAG: Retrieval-Augmented Generation
 # Overview:
 This project demonstrates the implementation of Retrieval-Augmented Generation (RAG), an architecture that enhances large language models with access to external knowledge sources, enabling more accurate and contextually aware responses.
+<img width="1217" height="641" alt="image" src="https://github.com/user-attachments/assets/1e81916c-c117-4bab-b4d5-8d64a74eb274" />
 
 # 🔍 How It Works
 # User Input (Question):
